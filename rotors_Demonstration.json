@@ -1,0 +1,54 @@
+{
+  "settings1": {
+    "rotors": ["I", "II", "III"],
+    "reflector": "B",
+    "ring_settings": ["01", "01", "01"],
+    "initial_positions": ["A", "A", "Z"],
+    "pairs":["HL", "MO", "AJ", "CX", "BZ","SR","NI","YW","DG","PK"]
+  },
+  "settings2": {
+    "rotors": ["IV", "V", "Beta", "I"],
+    "reflector": "A",
+    "ring_settings": ["18", "24", "03", "05"],
+    "initial_positions": ["E", "Z", "G", "P"],
+    "pairs":["PC","XZ","FM","QA","ST","NB","HY","OR","EV","IU"]
+  },
+  "settings3": {
+    "rotors": ["I", "II", "III"],
+    "reflector": "B",
+    "ring_settings": ["01", "01", "01"],
+    "initial_positions": ["A", "A", "Z"]
+
+  },
+ "settings4": {
+    "rotors": ["I", "II", "III"],
+    "reflector": "B",
+    "ring_settings": ["01", "01", "01"],
+    "initial_positions": ["A", "A", "A"]
+  },
+ "settings5": {
+    "rotors": ["I", "II", "III"],
+    "reflector": "B",
+    "ring_settings": ["01", "01", "01"],
+    "initial_positions": ["Q", "E", "V"]
+  },
+  "settings6": {
+    "rotors": ["IV", "V", "Beta"],
+    "reflector": "B",
+    "ring_settings": ["14", "09", "24"],
+    "initial_positions": ["A", "A", "A"]
+  },
+  "settings7": {
+    "rotors": ["I", "II", "III", "IV"],
+    "reflector": "C",
+    "ring_settings": ["07", "11", "15", "19"],
+    "initial_positions": ["Q", "E", "V", "Z"]
+   },
+  "settings8": {
+    "rotors": ["I", "II", "III"],
+    "reflector": "B",
+    "ring_settings": ["01", "01", "01"],
+    "initial_positions": ["B", "Z", "K"],
+    "pairs":["HL", "MO", "AJ", "CX", "BZ", "SR", "NI", "YW", "DG", "PK"]
+  }
+}
